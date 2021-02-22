@@ -1,0 +1,22 @@
+{
+    "name": "covid-19",
+    "version": "1.0.0",
+    "description": "",
+    "main": "covid_app.js",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "express-validator": "^6.9.2",
+        "mocha": "^8.2.1",
+        "supertest": "^6.0.1",
+        "tewolde-dice": "^1.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "node ./node_modules/mocha/bin/mocha"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
